@@ -1,2 +1,9 @@
+ads.*
+ads[0-9]*
+ads[a-z]*
+*.ads
 *dewyoyvosawgc.com
 *qrkykbfhqqs.com
+advertising-api-eu.amazon.com
+ck.ads.oppomobile.com
+books-analytics-events.apple.com
