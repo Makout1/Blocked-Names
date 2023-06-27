@@ -7,3 +7,8 @@ ads[a-z]*
 advertising-api-eu.amazon.com
 ck.ads.oppomobile.com
 books-analytics-events.apple.com
+weather-analytics-events.apple.com
+notes-analytics-events.apple.com
+adx.ads.oppomobile.com
+appmetrica.yandex.ru
+
