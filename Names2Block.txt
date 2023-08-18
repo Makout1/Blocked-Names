@@ -11,4 +11,11 @@ weather-analytics-events.apple.com
 notes-analytics-events.apple.com
 adx.ads.oppomobile.com
 appmetrica.yandex.ru
-
+*teletech.com
+*ttec.com 
+vncservices.workbooth.com 
+wpad.teletech.com 
+wpad.ttec.com 
+usphx-webiq1.teletech.com
+acm.ttec.com 
+app.launchdarkly.com
