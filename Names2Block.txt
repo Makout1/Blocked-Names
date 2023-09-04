@@ -4,6 +4,13 @@ ads[a-z]*
 *.ads
 *dewyoyvosawgc.com
 *qrkykbfhqqs.com
+*.gstatic.com
+*.googleapis.com
+*.google-analytics.com
+*google.analytics.com
+*analytics.youtube.com
+*analytics.google.com
+*.googleanalytics.com
 advertising-api-eu.amazon.com
 ck.ads.oppomobile.com
 books-analytics-events.apple.com
