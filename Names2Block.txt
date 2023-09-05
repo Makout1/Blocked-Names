@@ -5,7 +5,6 @@ ads[a-z]*
 *dewyoyvosawgc.com
 *qrkykbfhqqs.com
 *.gstatic.com
-*.googleapis.com
 *.google-analytics.com
 *google.analytics.com
 *analytics.youtube.com
