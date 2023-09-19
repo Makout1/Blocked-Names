@@ -13,6 +13,8 @@ adx.ads.oppomobile.com
 appmetrica.yandex.ru
 *teletech.com
 *ttec.com 
+*.bc.googleusercontent.com
+*bc.googleusercontent.com
 vncservices.workbooth.com 
 wpad.teletech.com 
 wpad.ttec.com 
