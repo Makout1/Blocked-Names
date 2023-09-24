@@ -12,7 +12,7 @@ notes-analytics-events.apple.com
 adx.ads.oppomobile.com
 appmetrica.yandex.ru
 *teletech.com
-*.bcgoogleusercontent.com
+*.bc.googleusercontent.com
 *ttec.com 
 vncservices.workbooth.com 
 wpad.teletech.com 
