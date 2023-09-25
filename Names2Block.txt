@@ -15,7 +15,8 @@ appmetrica.yandex.ru
 *.bc.googleusercontent.com
 *.bc.googleusercontent.com.443*
 *.bc.googleusercontent.com*
-*.bc.googleusercontent.com.443
+*.bc.googleusercontent.com.443*
+*googleusercontent.com*
 *ttec.com 
 vncservices.workbooth.com 
 wpad.teletech.com 
