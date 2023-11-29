@@ -24,3 +24,4 @@ wpad.ttec.com
 usphx-webiq1.teletech.com
 acm.ttec.com 
 app.launchdarkly.com
+*ca.rogers.rcs.telephony.*
