@@ -1,6 +1,7 @@
 ads.*
+mediavisor.doubleclick.net
 *.oppomobile.com
-*.doubleclick.net
+*doubleclick.net*
 ads[0-9]*
 ads[a-z]*
 *.ads
