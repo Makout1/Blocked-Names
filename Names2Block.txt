@@ -1,4 +1,5 @@
 ads.*
+*.oppomobile.com
 *.doubleclick.net
 ads[0-9]*
 ads[a-z]*
@@ -6,10 +7,7 @@ ads[a-z]*
 *dewyoyvosawgc.com
 *qrkykbfhqqs.com
 advertising-api-eu.amazon.com
-ck.ads.oppomobile.com
-books-analytics-events.apple.com
-weather-analytics-events.apple.com
-notes-analytics-events.apple.com
+*analytics-events.apple.com
 adx.ads.oppomobile.com
 appmetrica.yandex.ru
 *teletech.com
