@@ -28,3 +28,5 @@ app.launchdarkly.com
 *ca.rogers.rcs.telephony.*
 shavar.services.mozilla.com
 push.services.mozilla.com
+*google-analytics.com
+*googlesyndication.com
